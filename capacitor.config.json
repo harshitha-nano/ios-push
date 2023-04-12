@@ -1,0 +1,6 @@
+{
+  "appId": "com.estemedical.app",
+  "appName": "EsteMedicalApp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
